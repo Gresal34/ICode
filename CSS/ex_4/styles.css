@@ -1,0 +1,25 @@
+h1{
+    color:green;
+    font-size: 50px;
+}
+
+label{
+    color: indianred;
+}
+
+input[type="submit"]{
+    color: rgb(78, 10, 10);
+}
+
+p {
+    color:green;
+
+}
+
+p .red {
+    color:red;
+}
+a {
+color:red ;
+
+}

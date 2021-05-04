@@ -1,0 +1,14 @@
+a{
+    color: rgb(255, 0, 0);
+}
+
+a:nth-child(1){color: purple;
+
+}
+header h1::first-letter{
+color:black;
+}
+header h1{
+    color: green;
+
+}

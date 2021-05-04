@@ -1,0 +1,17 @@
+h1 {
+    color: rgb(189, 51, 74);
+    font-size: 80px; text-align: center; text-decoration:underline;
+border: darkred;
+}
+p {color:green;
+    font-size: 30px; text-align-last: justify;text-decoration-color: aqua;
+    }
+div {color:black; text-decoration: uppercase; text-indent: 10%;
+    font-size: 25px;border: darkblue;
+}
+a {color:blue
+font-size:aqua 90px
+text-shadow:crimson
+}
+h1 {border: 1px solid coral;}
+p {border: 5px dotted black}
